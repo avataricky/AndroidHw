@@ -102,7 +102,7 @@
           <mxGeometry y="26" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="R_T4-rv6BssqhpsliwUH-31" value="Implements" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_T4-rv6BssqhpsliwUH-25" target="R_T4-rv6BssqhpsliwUH-0">
-          <mxGeometry x="-0.2209" y="30" width="160" relative="1" as="geometry">
+          <mxGeometry x="0.1279" y="30" width="160" relative="1" as="geometry">
             <mxPoint x="10" y="552" as="sourcePoint" />
             <mxPoint x="70" y="390" as="targetPoint" />
             <mxPoint as="offset" />
@@ -155,6 +155,18 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint y="25" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R_T4-rv6BssqhpsliwUH-52" value="Classname" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1090" y="460" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="R_T4-rv6BssqhpsliwUH-53" value="- name: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="R_T4-rv6BssqhpsliwUH-52">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="R_T4-rv6BssqhpsliwUH-54" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="R_T4-rv6BssqhpsliwUH-52">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="R_T4-rv6BssqhpsliwUH-55" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="R_T4-rv6BssqhpsliwUH-52">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
